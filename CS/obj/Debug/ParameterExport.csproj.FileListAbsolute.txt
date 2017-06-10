@@ -1,0 +1,12 @@
+C:\Users\yuanyizhou\Desktop\ParameterUtils\CS\obj\Debug\ParameterUtils.dll
+C:\Users\yuanyizhou\Desktop\ParameterUtils\CS\bin\Debug\ParameterUtils.dll
+C:\Users\yuanyizhou\Desktop\ParameterUtils\CS\bin\Debug\ParameterUtils.pdb
+C:\Users\yuanyizhou\Desktop\ParameterUtils\CS\obj\Debug\ParameterUtils.pdb
+C:\Users\yyz\Desktop\ParameterUtils\CS\bin\Debug\ParameterUtils.dll
+C:\Users\yyz\Desktop\ParameterUtils\CS\bin\Debug\ParameterUtils.pdb
+C:\Users\yyz\Desktop\ParameterUtils\CS\obj\Debug\ParameterExport.PropertiesForm.resources
+C:\Users\yyz\Desktop\ParameterUtils\CS\obj\Debug\ParameterExport.csproj.GenerateResource.Cache
+C:\Users\yyz\Desktop\ParameterUtils\CS\obj\Debug\ParameterUtils.dll
+C:\Users\yyz\Desktop\ParameterUtils\CS\obj\Debug\ParameterUtils.pdb
+C:\Users\yyz\Desktop\ParameterUtils\CS\obj\Debug\ParameterExport.csprojResolveAssemblyReference.cache
+C:\Users\yuanyizhou\Desktop\ParameterUtils\CS\obj\Debug\ParameterExport.csprojResolveAssemblyReference.cache

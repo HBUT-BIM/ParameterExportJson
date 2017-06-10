@@ -1,0 +1,6 @@
+C:\Users\yuanyizhou\Desktop\ParameterUtils\CS\bin\Debug\ParameterUtils.dll
+C:\Users\yuanyizhou\Desktop\ParameterUtils\CS\bin\Debug\ParameterUtils.pdb
+C:\Users\yuanyizhou\Desktop\ParameterUtils\CS\obj\Debug\Revit.SDK.Samples.ParameterUtils.CS.PropertiesForm.resources
+C:\Users\yuanyizhou\Desktop\ParameterUtils\CS\obj\Debug\ParameterUtils.csproj.GenerateResource.Cache
+C:\Users\yuanyizhou\Desktop\ParameterUtils\CS\obj\Debug\ParameterUtils.dll
+C:\Users\yuanyizhou\Desktop\ParameterUtils\CS\obj\Debug\ParameterUtils.pdb
